@@ -8,4 +8,4 @@ You don't need React to write simple standalone pages.
 
 You can even include images
 
-![](ise.svg)
+![](img/ise.svg)
