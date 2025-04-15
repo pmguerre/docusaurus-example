@@ -10,8 +10,8 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Docusarus test',
-  tagline: 'Docs',
+  title: 'Site de exemplo do Docusaurus',
+  tagline: 'O docusaurus é o melhor que há!!!',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
