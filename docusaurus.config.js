@@ -10,7 +10,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Docusarus',
+  title: 'Docusarus test',
   tagline: 'Docs',
   favicon: 'img/favicon.ico',
 
